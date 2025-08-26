@@ -56,4 +56,46 @@
   ],
   "portfolio": [
     {
-      "name": "Pok
+      "name": "Pokedéx — projeto DIO (GitHub Pages)",
+      "url": "https://lariscalzaretto.github.io/js-developer-pokedex/",
+      "github": false
+    },
+    {
+      "name": "Pokedéx — repositório",
+      "url": "https://github.com/lariscalzaretto/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Portfolio (Adobe Portfolio)",
+      "url": "https://larissascalzaretto.myportfolio.com/",
+      "github": false
+    },
+    {
+      "name": "MSC Finanças — Social Media & Branding",
+      "url": "https://www.instagram.com/mscfinancas/",
+      "github": false
+    },
+    {
+      "name": "NUXX — campanhas e editoriais",
+      "url": "https://www.instagram.com/nuxxoficial/",
+      "github": false
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Designer / Especialista em Marketing — NUXX",
+      "period": "Maio 2023 - Junho 2025",
+      "description": "Atuação estratégica em marca de moda premium: desenvolvimento de estampas, gestão de produção e fichas técnicas, conteúdos orientados à conversão, apoio ao CRM e lançamentos de coleção."
+    },
+    {
+      "name": "Fundadora & Designer de Produto — Candles Magic Shop",
+      "period": "Março 2022 - Dezembro 2022",
+      "description": "Criação de marca e identidade visual, design de embalagem e experiência de produto; gestão de redes sociais e e-commerce."
+    },
+    {
+      "name": "Compradora / Auxiliar de Moda — SERPUI",
+      "period": "Julho 2017 - Maio 2020",
+      "description": "Pesquisa e negociação com fornecedores, controle de contratos, apoio ao marketing e gestão logística de importação e exportação."
+    }
+  ]
+}
